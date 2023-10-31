@@ -1,0 +1,16 @@
+canvas {
+    height: 50vh !important;
+}
+
+body {
+    background-color: slategray;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #333;
+    color: #fff;
+    border-radius: 10px;
+}
